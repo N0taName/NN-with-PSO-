@@ -1,0 +1,3 @@
+# Enhancing Neural Network Classification Accuracy with Particle Swarm Optimization
+
+The goal of this project is to explore the effectiveness of an enhanced Particle Swarm Optimization (PSO) algorithm in improving the training accuracy of Artificial Neural Networks (ANNs) for classification tasks. This project proposes to implement and assess a novel PSO algorithm that dynamically adjusts its parameters to balance exploration and exploitation, aiming to find a global optimum in the training process. This approach is intended to enhance the ANN’s ability to classify data accurately, which would be beneficial across various application domains.
